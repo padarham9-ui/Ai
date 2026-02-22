@@ -2,4 +2,4 @@
 هوش مصنوعی توی دنیا زیاده ولی خفن هاشون خیلی نادر هستن مثلا هوش مصنوعی configfars این هوش مصنوعی خیلی قویی و بدونه محدودیت و پرسرعت است! 
 # از کجا ai configfars رو دانلود کنیم؟
 شما با کلیک به این دکمه که اسمش هست دانلود میتونید این هوش،مصنوعی رو دانلود کنید 
-[دانلود](https://github.com/padarham9-ui/Ai/raw/refs/heads/main/AI.apk)
+# [دانلود](https://github.com/padarham9-ui/Ai/raw/refs/heads/main/AI.apk)
