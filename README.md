@@ -11,3 +11,7 @@
 #### [تلگرام](https://t.me/configfars)
 #### [روبیکا](https://rubika.ir/configfars)
 #### [ایتا](https://eitaa.com/configfars)
+# حالا الان هوش مصنوعی configfars نسخه ی مدلش چیه؟ اسم مدلش چیه؟
+#### نسخه ی مدل:1
+#### اسم مدل : cs
+#### اسم نهایی فعلی : cs-1
