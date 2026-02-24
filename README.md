@@ -15,3 +15,32 @@
 #### نسخه ی مدل:1
 #### اسم مدل : cs
 #### اسم نهایی فعلی : cs-1
+# این ai چجوریه؟
+با سرور configfars ارتباط برقرار میکنه که سرور configfars در سرتاسر دنیا وصله چرا؟ چون به cloudflare EDGe وصله میتونید سرعت بالا و پینگ پایین تری داشته باشید
+# یک نمونه از AI کانفیگ فارس میدی ببینیم چجوری حرف میزنه؟
+۱ نمونه : کاربر گفته : سلام
+جواب گرفته : **سلام! 👋** چه کمکی از دست من بر می‌آید؟ 😊
+نمونه ‌کد نویسی (یک کد html ساده)
+```text
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>سلام</title>
+    <style>
+        body { 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Tahoma, sans-serif;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    سلام
+</body>
+</html>
+```
