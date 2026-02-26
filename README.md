@@ -4,8 +4,7 @@
 هوش مصنوعی توی دنیا زیاده ولی خفن هاشون خیلی نادر هستن مثلا هوش مصنوعی configfars این هوش مصنوعی خیلی قویی و بدونه محدودیت و پرسرعت است! 
 # از کجا ai configfars رو دانلود کنیم؟
 شما با کلیک به این دکمه که اسمش هست دانلود میتونید این هوش،مصنوعی رو دانلود کنید 
-![icon](https://raw.githubusercontent.com/padarham9-ui/Ai/refs/heads/main/InShot_20260226_131151492.png)
-### [دانلود](https://github.com/padarham9-ui/Ai/raw/refs/heads/main/AI.apk)
+[![icon](https://raw.githubusercontent.com/padarham9-ui/Ai/refs/heads/main/InShot_20260226_131151492.png)](https://github.com/padarham9-ui/Ai/raw/refs/heads/main/AI.apk)
 # چرا حجم این ai کمه؟ نکنه این ai خیلی ضعیفه؟
 قطعا نه چرا؟ چون این برنامه در خواست میفرسته به سرور configfars یعنی فقط درخواست ها رو می‌فرسته و محیط چت رو می‌سازه یعنی شما اینترنت رو داخل خود برنامه میدهید!
 ## کانال configfars رو کجا پیدا کنم؟
