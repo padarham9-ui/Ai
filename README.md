@@ -1,3 +1,4 @@
+![ICON](https://raw.githubusercontent.com/padarham9-ui/Ai/refs/heads/main/InShot_20260226_114326451.png)
 ![icon](https://raw.githubusercontent.com/padarham9-ui/Ai/refs/heads/main/InShot_20260222_153309532.png)
 # معرفی ai جدید و خفن
 هوش مصنوعی توی دنیا زیاده ولی خفن هاشون خیلی نادر هستن مثلا هوش مصنوعی configfars این هوش مصنوعی خیلی قویی و بدونه محدودیت و پرسرعت است! 
