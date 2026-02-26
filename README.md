@@ -12,6 +12,7 @@
 #### [روبیکا](https://rubika.ir/configfars)
 #### [ایتا](https://eitaa.com/configfars)
 # حالا الان هوش مصنوعی configfars نسخه ی مدلش چیه؟ اسم مدلش چیه؟
+![ICON](https://raw.githubusercontent.com/padarham9-ui/Ai/refs/heads/main/InShot_20260226_114326451.png)
 #### نسخه ی مدل:1
 #### اسم مدل : cs
 #### اسم نهایی فعلی : 1.cs-1
